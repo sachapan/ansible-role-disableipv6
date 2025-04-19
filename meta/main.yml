@@ -1,12 +1,8 @@
 galaxy_info:
   namespace: sachapan
-  role-name: disable_ipv6
+  role_name: disableipv6
   author: Sacha Panasuik 
   description: Disable ipv6 via sysctl
-
-  # If the issue tracker for your role is not on github, uncomment the
-  # next line and provide a value
-  # issue_tracker_url: http://example.com/issue/tracker
 
   # Choose a valid license ID from https://spdx.org - some suggested licenses:
   # - BSD-3-Clause (default)
