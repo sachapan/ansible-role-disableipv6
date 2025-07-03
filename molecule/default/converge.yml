@@ -3,4 +3,4 @@
   hosts: all
   gather_facts: false
   roles:
-    - sachapan.disable_ipv6
+    - sachapan.disableipv6
